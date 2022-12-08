@@ -1,0 +1,23 @@
+#survey-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 0px 10px;
+}
+
+#title {
+  text-align: center;
+}
+
+#description {
+  text-align: center;
+}
+
+body {
+  background-color: gray;
+}
+
+#name-label {
+  text-align: left;
+}
